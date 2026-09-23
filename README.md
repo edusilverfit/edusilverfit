@@ -3,7 +3,7 @@
 
 ## Minhas Tecnologias ##
 
-![](converted_image-3.png)  ![](css3.png)
+![](converted_image-3.png)  ![](css3.png)  ![alt text](converted_image-5.png) ![alt text](converted_image-7.png)
 
 
 
