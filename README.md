@@ -1,6 +1,13 @@
 # Bem-Vindos ao Meu GitHub!
 
 
+## Minhas Tecnologias ##
+
+![](converted_image-3.png)  ![](css3.png)
+
+
+
+
 
 <!--
 **edusilverfit/edusilverfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
