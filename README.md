@@ -26,7 +26,7 @@
 
 [Criando Wikipedia com Layout Moderno](https://github.com/edusilverfit/Desafio---Criando-Wikipedia-com-Layout-Moderno)
 
-[Desafio Criando meu Primeiro Site Completo](https://github.com/edusilverfit/Desafio-Criando-seu-Primeiro-Site-Completo-com-HTML)
+[Projeto Página do Discord com Responsividade do CSS](https://github.com/edusilverfit/Projeto-Pagina-Discord-com-Responsividade-CSS)
 
 [Criando Página do Youtube com CSS](https://github.com/edusilverfit/Criando-P-gina-do-Youtube-com-CSS)
 
